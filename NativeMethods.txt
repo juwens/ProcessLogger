@@ -1,0 +1,3 @@
+﻿OpenProcessToken
+CloseHandle
+ReadFile
